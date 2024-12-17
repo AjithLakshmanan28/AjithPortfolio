@@ -1,34 +1,73 @@
-# Day-1-PortfolioWebsite - 1
+# Portfolio Website - Day 1 Progress
 
-Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
+## Overview
+This is the first day of building my portfolio website. The primary goal is to create a personal platform to showcase my skills, projects, and experiences in digital marketing, video editing, graphic design, and more.
 
-Live Demo - https://quantumcoding123.github.io/Day-1-PortfolioWebsite-1/
+---
 
-# Join Us
+## Day 1 Goals
+1. **Setup the Project**:
+   - Decide the tech stack and tools.
+   - Initialize the project files and folder structure.
+2. **Plan the Layout**:
+   - Sketch out the basic structure of the homepage.
+   - Identify the core sections (e.g., About Me, Skills, Projects, Contact).
+3. **Design the Theme**:
+   - Choose the color scheme, fonts, and basic UI elements.
+4. **Start Coding**:
+   - Begin building the website structure with HTML.
 
-GitHub-https://github.com/QuantumCoding123
+---
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+## Tools & Technologies
+- **HTML**: Structure the content.
+- **CSS**: Design and style the layout.
+- **Figma** (or Canva): Create the initial wireframe and design ideas.
+- **VS Code**: Code editor for development.
 
-Instagram - https://www.instagram.com/quantumcoding123?igsh=dG11MDNsOGJrM3Jt
+---
 
-Telegram-https://t.me/+yw9iQAMmd002NTI1
+## Tasks Completed
+- Finalized the sections to include on the website.
+- Created the folder structure:
+  ```
+  portfolio-website/
+  |-- index.html
+  |-- css/
+  |    |-- style.css
+  |-- images/
+  |-- js/
+  |-- README.md
+  ```
+- Added the basic HTML boilerplate code in `index.html`.
+- Planned the following sections:
+  - Header with navigation
+  - Introduction (Hero Section)
+  - Skills Showcase
+  - Project Portfolio
+  - Contact Form
 
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+---
 
-With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
+## Next Steps (Day 2 Goals)
+1. Complete the **Header and Hero Section**.
+2. Write the basic CSS styles for layout and responsiveness.
+3. Add placeholder content for the Skills and Projects sections.
 
-Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
+---
 
-# Output 1
+## Notes
+- Keep the design clean, minimal, and responsive.
+- Ensure easy navigation for users.
+- Highlight key skills and projects effectively.
 
-![Screenshot (4)](https://github.com/QuantumCoding123/Day-1-PortpolioWebsite---1/assets/166281221/f0d18205-d94b-4a01-92e4-a755079c2150)
+---
 
+## Preview (Work in Progress)
+![Website Design Concept Placeholder](#)
 
-# Output 2
+---
 
-
-![Screenshot (5)](https://github.com/QuantumCoding123/Day-1-PortpolioWebsite---1/assets/166281221/ebc71298-5577-460d-8135-5b93c9a62cdb)
-
-
+### Created By
+Ajith L. | [LinkedIn](#) | [GitHub](#)
 
