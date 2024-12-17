@@ -1,4 +1,4 @@
-# Portfolio Website - Day 1 Progress
+# Portfolio Website
 
 ## Overview
 This is the first day of building my portfolio website. The primary goal is to create a personal platform to showcase my skills, projects, and experiences in digital marketing, video editing, graphic design, and more.
